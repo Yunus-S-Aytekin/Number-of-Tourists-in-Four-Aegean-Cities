@@ -6,8 +6,6 @@ from ipywidgets import interact
 import ipywidgets as widgets
 from mplcursors import cursor
 
-# link: https://biruni.tuik.gov.tr/bolgeselistatistik/anaSayfa.do?dil=eng
-
 df1 = pd.read_csv("table_1.csv",encoding='latin-1')
 df2 = pd.read_csv("table_2.csv",encoding='latin-1')
 df3 = pd.read_csv("table_3.csv",encoding='latin-1')

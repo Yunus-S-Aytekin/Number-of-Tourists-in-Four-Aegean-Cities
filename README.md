@@ -5,7 +5,7 @@
 ### Data Source:
 
 - These data were taken from TÜİK(Turkish Statistical Institute).
-- Here is the (link)[https://biruni.tuik.gov.tr/bolgeselistatistik/anaSayfa.do?dil=eng]
+- Here is the [link](https://biruni.tuik.gov.tr/bolgeselistatistik/anaSayfa.do?dil=eng)
 
 ### Research Question:
 

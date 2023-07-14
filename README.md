@@ -1,6 +1,10 @@
-# number-of-tourists-in-four-Aegean-cities
+# Number of Tourists in Four Aegean Cities
 
 - I created this graph for Applied Plotting, Charting & Data Representation in Python course offered by Michigan on Coursera.
+
+### Data Source:
+
+- These data were taken from TÜİK(Turkish Statistical Institute).
 
 ### Research Question:
 
@@ -8,6 +12,6 @@
 
 ### About The Image:
 
-- This Image shows the change in the number of tourists in the Aegean Region. These data were taken from TÜİK(Turkish Statistical Institute).
+- This Image shows the change in the number of tourists in the Aegean Region.
 - The graph compares the popularity of 4 Aegean cities in terms of the number of tourists.
 - The plots indicate the change in the number of tourists per year from 1995 to 2022. This allows us to compare which city is more popular than the others.
